@@ -9,3 +9,5 @@ go
 place 
 out 
 there
+exit
+way
